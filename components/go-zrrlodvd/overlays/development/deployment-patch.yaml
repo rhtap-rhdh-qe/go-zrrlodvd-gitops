@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-zrrlodvd:27c2b4aa146f6244873a5e95dc963fe57d5bd8da@sha256:5964b1aef2cafcbb90d77511cd9fc0a5b50f2f55a0a9d3f5f8221ad7767f7d51
+        - image: quay.io/rhtap_qe/go-zrrlodvd:be2dedddc644e88742bc56b22e3169635dbc2b7f@sha256:097cb10740096ee6ad51ad00b7737e7463ef80cb0b52823c2bb2e81cb8ab559a
           name: container-image
